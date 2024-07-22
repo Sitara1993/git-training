@@ -4,4 +4,4 @@ The primary goal of this program is to print the phrase
 "Hello, World!" 
 to the screen or console.
 
-Code: 
+Code: print("Hello, World!")
